@@ -1,0 +1,40 @@
+body {
+	background-color: #FEF5E7 ;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;	
+}
+
+.header {
+	height: 120px;
+	width: 100%;
+	background-color: #0B173B;
+	padding: 0px;
+	vertical-align: middle;
+	float: left;
+}
+
+.inheader_pic {
+	float: left;
+}
+
+.inheader_text {
+	padding-top: 30px;
+	color: #FFFFFF;
+}
+
+#logo {
+	padding-left: 30px;
+	padding-top: 15px;
+	padding-right: 10px;
+}
+
+.content{
+	height: 800px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.content button{
+	margin-top: 350px;
+}
