@@ -6,11 +6,10 @@
 </head>
 <body>
 	<div class="header">
-		<div class="inheader_pic"><img src="logo.png" height="80" width="80" id="logo"></div>
-		<div class="inheader_text"><h2>West Virginia Univeristy</h2></div>
+		<div class="inheader_pic"><img src="logo.png" height="120" width="320" id="logo"></div>
 	</div>
 	<div class="content">
-		<button type="button" onclick="redirect()" >Login!</button>
+		<button type="button" onclick="redirect()" class="login" >Login!</button>
 	</div>
 
 	<script type="text/javascript">
